@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.7"
+    "bootstrap": "^5.3.7",
+    "node-couchdb": "^2.0.0"
   }
 }
